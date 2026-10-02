@@ -15,7 +15,7 @@ The Mac builds are signed with a Developer ID and notarized by Apple. The Window
 ## Requirements
 
 - macOS 12 or later, or Windows 10 or later
-- Python 3.12 and [uv](https://docs.astral.sh/uv/) on your PATH
+- [uv](https://docs.astral.sh/uv/) installed; the app sets up its own Python 3.12 on first launch
 - A model provider: a Claude or ChatGPT subscription, an API key, or a local model server
 
 ## Feedback
